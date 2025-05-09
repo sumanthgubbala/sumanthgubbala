@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sumanthgubbala<br> 👀 I’m interested in Programming<br>🌱 I’m currently learning AI/M<br> 📫 How to reach me sumanthgubbala1620gmail.com
+👋 Hi, I’m @sumanthgubbala<br> 👀 I’m interested in Programming<br>🌱 I’m currently learning AI/ML<br> 📫 How to reach me sumanthgubbala1620gmail.com
 
 
 ## 🌐 Socials:
