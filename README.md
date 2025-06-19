@@ -1,4 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=40&duration=4994&pause=1000&color=D70000C7&center=true&vCenter=true&width=435&lines=I'm+Sumanth+Gubbala;Full+Stack+developer)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc0cnc3MXo4MzZ5N3ptN24xMHF6ZXJlYnhzdGFtd21hazQ1dXVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
+</p>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=40&duration=4994&pause=1000&color=D70000C7&center=true&vCenter=true&width=435&lines=I'm+Sumanth+Gubbala;Full+Stack+developer" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthgubbala&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthgubbala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthgubbala" alt="sumanthgubbala" /></a> </p>
