@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumanth</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=40&duration=4994&pause=1000&color=D70000C7&center=true&vCenter=true&width=435&lines=I'm+Sumanth+Gubbala;Full+Stack+developer)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthgubbala&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthgubbala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthgubbala" alt="sumanthgubbala" /></a> </p>
