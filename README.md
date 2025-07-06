@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://sumanthgubbalaportfolio.netlify.app/](https://sumanthgubbalaportfolio.netlify.app/)
 
-- 💬 Ask me about **react , java**
+- 💬 Ask me about **Python, react, java**
 
 - 📫 How to reach me **sumanthgubbala123@gmail.com**
 
