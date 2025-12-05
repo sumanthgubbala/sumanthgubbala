@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=40&duration=4994&pause=1000&color=D70000C7&center=true&vCenter=true&width=435&lines=I'm+Sumanth;Full+Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" width="1000">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=40&duration=1994&pause=1000&color=D70000C7&center=true&vCenter=true&width=700&lines=I'm+Sumanth;Robotic's+Enginner;Machine+Learing+Enginner;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,13 +14,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthgubbala" alt="sumanthgubbala" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **Robotics's And Deep Learing**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **ROS**
 
 - 👨‍💻 All of my projects are available at [https://sumanthgubbalaportfolio.netlify.app/](https://sumanthgubbalaportfolio.netlify.app/)
 
-- 💬 Ask me about **Python, react, java**
+- 💬 Ask me about **Python, ReactJS, Java, ROS**
 
 - 📫 How to reach me **sumanthgubbala123@gmail.com**
 
