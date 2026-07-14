@@ -1,42 +1,147 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+# Hi 👋 I'm Sumanth Gubbala
+
+### 🤖 Robotics Engineer | 🧠 Machine Learning Engineer | 💻 Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Building+Intelligent+Robots;Computer+Vision+%7C+ROS2+%7C+AI;Deep+Learning+Engineer;Always+Learning+Something+New"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://sumanthgubbalaportfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sumanth-gubbala)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sumanthgubbala123@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=sumanthgubbala&style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🤖 Robotics Engineer working on Autonomous Mobile Robots (AMR/AGV)
+- 🔭 Exploring Vision Language Models (VLMs)
+- 🌱 Currently learning ROS2, Navigation2, SLAM, CUDA
+- 💻 Passionate about AI, Robotics and Full Stack Development
+- ⚡ Interested in Computer Vision, Deep Learning and Autonomous Driving
+- 🎯 Goal: Become an AI Robotics Engineer
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,bash"/>
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+- Scikit-Learn
+- YOLO
+- HuggingFace
+- OpenCV
+- EasyOCR
+- LangChain
+
+---
+
+## Robotics
+
+- ROS
+- ROS2
+- Gazebo
+- RViz
+- Navigation2
+- SLAM
+- LiDAR
+- Computer Vision
+
+---
+
+## Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring,mongodb,mysql,postgres"/>
+</p>
+
+---
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,postman"/>
+</p>
+
+---
+
+
+# 📈 GitHub Analytics
+
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc0cnc3MXo4MzZ5N3ptN24xMHF6ZXJlYnhzdGFtd21hazQ1dXVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumanthgubbala&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sumanthgubbala&theme=tokyonight"/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthgubbala&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://git.io/typing-svg" width="1000">
-    <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=40&duration=1994&pause=1000&color=D70000C7&center=true&vCenter=true&width=700&lines=I'm+Sumanth;Robotic's+Enginner;Machine+Learing+Enginner;Full+Stack+Developer" alt="Typing SVG" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumanthgubbala&theme=tokyonight&row=2&column=4"/>
+
 </p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthgubbala&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthgubbala" /> </p>
+# 📊 Contribution Graph
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthgubbala" alt="sumanthgubbala" /></a> </p>
+<p align="center">
 
-- 🔭 I’m currently working on **Robotics's And Deep Learing**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthgubbala&theme=tokyo-night"/>
 
-- 🌱 I’m currently learning **ROS**
-
-- 👨‍💻 All of my projects are available at [https://sumanthgubbalaportfolio.netlify.app/](https://sumanthgubbalaportfolio.netlify.app/)
-
-- 💬 Ask me about **Python, ReactJS, Java, ROS**
-
-- 📫 How to reach me **sumanthgubbala123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumanth-gubbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanth-gubbala" height="30" width="40" /></a>
-<a href="https://fb.com/sumanth.gubbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumanth.gubbala" height="30" width="40" /></a>
-<a href="https://instagram.com/i_s.u.m.a.n.t.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_s.u.m.a.n.t.h" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/syntaxsimplified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syntaxsimplified" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanthgubbala&show_icons=true&locale=en&layout=compact" alt="sumanthgubbala" /></p>
+# 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanthgubbala&show_icons=true&locale=en" alt="sumanthgubbala" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthgubbala&" alt="sumanthgubbala" /></p>
+<a href="https://linkedin.com/in/sumanth-gubbala">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sumanthgubbala123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/i_s.u.m.a.n.t.h">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.youtube.com/c/syntaxsimplified">
+<img src="https://img.icons8.com/color/48/youtube-play.png"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Turning AI into Intelligent Robotics."
+
+</div>
