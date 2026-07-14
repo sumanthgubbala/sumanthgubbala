@@ -107,19 +107,13 @@ robotics_engineer:
 
 ---
 
-
-
-
 ## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sumanthgubbala/sumanthgubbala/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
----
 
-
----
 
 ## Connect With Me
 
