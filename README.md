@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JhaXJrbGIxcnUzeGp6OXNybTcxMjNoeGZnb2FjN2g0OWNoc3N0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz24pRStq8KaEwz9c6/giphy.gif" width="250"/>
+
 # Sumanth Gubbala
 
 **Robotics Engineer | Machine Learning Engineer | Full Stack Developer**
@@ -94,10 +96,13 @@ robotics_engineer:
 ## Contribution Graph
 
 <div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthgubbala&theme=tokyo-night&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthgubbala&theme=tokyo-night&hide_border=true&area=true&custom_title=Sumanth's%20Contribution%20Activity"/>
 </div>
 
 ---
+
+
+
 
 ## Contribution Snake
 
