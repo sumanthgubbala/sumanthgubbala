@@ -96,8 +96,14 @@ robotics_engineer:
 ## Contribution Graph
 
 <div align="center">
+  
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthgubbala&theme=tokyo-night&hide_border=true&area=true&custom_title=Sumanth's%20Contribution%20Activity"/>
 </div>
+
+<div align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/sumanthgubbala/sumanthgubbala/main/activity-graph.svg"/>
+</div>
+
 
 ---
 
