@@ -30,15 +30,15 @@
   <text x="30" y="54" class="subtitle">Last 8 weeks · 79 contributions in the past year</text>
   <line class="axis" x1="60" y1="260" x2="760" y2="260"/>
 
-  <path class="area" fill="url(#areaFill)" d="M60,260 C108.5,260 108.5,260 157,260 C205.5,260 205.5,260 254,260 C302.5,260 302.5,162.22222222222223 351,162.22222222222223 C399.5,162.22222222222223 399.5,260 448,260 C496.5,260 496.5,260 545,260 C593.5,260 593.5,260 642,260 C690.5,260 690.5,40 739,40 L739,260 L60,260 Z"/>
-  <path class="line" d="M60,260 C108.5,260 108.5,260 157,260 C205.5,260 205.5,260 254,260 C302.5,260 302.5,162.22222222222223 351,162.22222222222223 C399.5,162.22222222222223 399.5,260 448,260 C496.5,260 496.5,260 545,260 C593.5,260 593.5,260 642,260 C690.5,260 690.5,40 739,40"/>
+  <path class="area" fill="url(#areaFill)" d="M60,260 C108.5,260 108.5,260 157,260 C205.5,260 205.5,162.22222222222223 254,162.22222222222223 C302.5,162.22222222222223 302.5,260 351,260 C399.5,260 399.5,260 448,260 C496.5,260 496.5,260 545,260 C593.5,260 593.5,40 642,40 C690.5,40 690.5,260 739,260 L739,260 L60,260 Z"/>
+  <path class="line" d="M60,260 C108.5,260 108.5,260 157,260 C205.5,260 205.5,162.22222222222223 254,162.22222222222223 C302.5,162.22222222222223 302.5,260 351,260 C399.5,260 399.5,260 448,260 C496.5,260 496.5,260 545,260 C593.5,260 593.5,40 642,40 C690.5,40 690.5,260 739,260"/>
 
   <circle class="dot" cx="60" cy="260" style="animation-delay:0.1s"/>
   <circle class="dot" cx="157" cy="260" style="animation-delay:0.6s"/>
-  <circle class="dot" cx="254" cy="260" style="animation-delay:1.1s"/>
-  <circle class="dot" cx="351" cy="162.22222222222223" style="animation-delay:1.6s"/>
+  <circle class="dot" cx="254" cy="162.22222222222223" style="animation-delay:1.1s"/>
+  <circle class="dot" cx="351" cy="260" style="animation-delay:1.6s"/>
   <circle class="dot" cx="448" cy="260" style="animation-delay:2.1s"/>
   <circle class="dot" cx="545" cy="260" style="animation-delay:2.6s"/>
-  <circle class="dot" cx="642" cy="260" style="animation-delay:3.1s"/>
-  <circle class="dot" cx="739" cy="40" style="animation-delay:3.6s"/>
+  <circle class="dot" cx="642" cy="40" style="animation-delay:3.1s"/>
+  <circle class="dot" cx="739" cy="260" style="animation-delay:3.6s"/>
 </svg>
