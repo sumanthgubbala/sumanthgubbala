@@ -27,7 +27,7 @@
 
   <rect class="bg" width="800" height="300" rx="10"/>
   <text x="30" y="35" class="title">sumanthgubbala's Contribution Activity</text>
-  <text x="30" y="54" class="subtitle">Last 8 weeks · 81 contributions in the past year</text>
+  <text x="30" y="54" class="subtitle">Last 8 weeks · 55 contributions in the past year</text>
   <line class="axis" x1="60" y1="260" x2="760" y2="260"/>
 
   <path class="area" fill="url(#areaFill)" d="M60,260 C108.5,260 108.5,260 157,260 C205.5,260 205.5,40 254,40 C302.5,40 302.5,260 351,260 C399.5,260 399.5,113.33333333333334 448,113.33333333333334 C496.5,113.33333333333334 496.5,162.22222222222223 545,162.22222222222223 C593.5,162.22222222222223 593.5,260 642,260 C690.5,260 690.5,260 739,260 L739,260 L60,260 Z"/>
