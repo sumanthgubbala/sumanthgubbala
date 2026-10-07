@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JhaXJrbGIxcnUzeGp6OXNybTcxMjNoeGZnb2FjN2g0OWNoc3N0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz24pRStq8KaEwz9c6/giphy.gif" width="250"/>
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JhaXJrbGIxcnUzeGp6OXNybTcxMjNoeGZnb2FjN2g0OWNoc3N0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz24pRStq8KaEwz9c6/giphy.gif" width="250"/> -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtocTdzdzlnaTM4cHQ3bjJ6ZDd0dndsdXU3dmhyNDRsNzc2eTNmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"/>
+
 
 # Sumanth Gubbala
 
